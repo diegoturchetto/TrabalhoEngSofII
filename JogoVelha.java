@@ -20,7 +20,7 @@ import javafx.scene.layout.*;
 
 /**
  *
- * @author diego
+ * @author diego e Luciano
  */
 public class JogoVelha extends Application {
 
